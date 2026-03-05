@@ -7,8 +7,7 @@
 
 [English](./README_EN.md) | 日本語
 
-<!-- TODO: デモ動画 / スクリーンショットを挿入 -->
-<!-- https://github.com/user-attachments/assets/XXXX -->
+https://github.com/user-attachments/assets/0c5b0ee4-e73c-4e62-8fac-a351ec8fb391
 
 ### 概要
 
